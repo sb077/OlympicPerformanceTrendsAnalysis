@@ -1,0 +1,22 @@
+# Ignore checkpoints and cache
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.xlsx
+*.pdf
+*.zip
+*.png
+*.jpg
+*.gif
+*.mp4
+*.mkv
+*.pptx
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore VSCode and OS files
+.vscode/
+.DS_Store
+Thumbs.db
