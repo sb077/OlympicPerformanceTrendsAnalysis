@@ -9,4 +9,4 @@ xgboost==2.0.3
 streamlit==1.29.0
 watchdog==3.0.0
 scipy==1.11.4
-tensorflow==2.15.0
+tensorflow
