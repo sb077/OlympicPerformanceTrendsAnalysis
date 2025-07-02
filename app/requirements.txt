@@ -8,5 +8,4 @@ scikit-learn
 xgboost
 streamlit
 watchdog
-scipy
-tensorflow
+scipy==1.12.0
